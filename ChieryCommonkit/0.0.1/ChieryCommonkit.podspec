@@ -99,7 +99,7 @@ Pod::Spec.new do |s|
   s.source_files  = "ChieryCommonkit", "ChieryCommonkit/**/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
-  # s.public_header_files = "Classes/**/*.h"
+  s.public_header_files = "ChieryCommonkit/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
